@@ -146,3 +146,7 @@ void loop() {
 ---
 
 👉 Do you want me to also explain how to **add zoom & pan controls** with keypad?
+
+
+
+https://esp32io.com/tutorials/esp32-keypad
